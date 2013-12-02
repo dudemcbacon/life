@@ -1,22 +1,18 @@
-@cheeaun's life
+@dudemcbacon's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 First tweet
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 HackerWeb featured on Hacker News' front page
-- 01/07/2013-~ Software Engineer - Viki
+- 25/12/1988 Born
+- 09/1995-06/1999 Started School (Jennings Lodge)
+- 09/1999-06/2000 Middle School (John Whetten)
+- 09/2000-06/2004 Middle School (Kraxberger)
+- 09/2004-06/2007 High School (Gladstone)
+- 08/2005-12/2005  Telemarketer - American Independant Mortgage
+- 06/2006-2007 Selling Associate - OfficeMax
+- 10/2007-2010 Portland Community College
+- 01/2008-12/2011 Student Help Desk Associate - Portland Community College
+- 06/2008-06/2009 Lab Tech (PLA) - Intel
+- 04/2010-04/2011 Lab Tech (3PF) - Intel
+- 06/2010-09/2012 Oregon Institute of Technology
+- 06/2011-04/2013 IT Tech - Oregon Convention Center
+- 09/2011-04/2013 Network Systems Engineer (NBI) - Intel
+- 04/2013-12/2013 DevOps Engineer - Nike

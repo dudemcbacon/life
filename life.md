@@ -8,25 +8,25 @@
 - 09/2004-06/2007 High School (Gladstone)
 - 25/12/2004 First Laptop (Toshiba)
 - 08/2005-12/2005  Telemarketer - American Independant Mortgage
-~ 09/2005 First Computer (AMD)
+- ~09/2005 First Computer (AMD)
 - 06/2006-2007 Selling Associate - OfficeMax
-~ 06/2007 Second Laptop (Acer) 
+- ~06/2007 Second Laptop (Acer) 
 - 10/2007-2010 Portland Community College
 - 10/2007-1/2008 Package Handler - UPS
-~ 2008 Second Computer (Intel)
+- ~2008 Second Computer (Intel)
 - 01/2008-12/2011 Student Help Desk Associate - Portland Community College
 - 06/2008-06/2009 Lab Tech (PMC) - Intel
-~ 05/2009 Third Laptop (Lenovo)
-~ 2009 First RAID array
-~ 05/2009 Network+ Cert
-~ 10/2009 CCNA Cert
+- ~05/2009 Third Laptop (Lenovo)
+- ~2009 First RAID array
+- ~05/2009 Network+ Cert
+- ~10/2009 CCNA Cert
 - 04/2010-04/2011 Lab Tech (3PF) - Intel
 - 05/2010 A+ Cert
-~ 2011 Stole a bunch of shit from Intel
+- ~2011 Stole a bunch of shit from Intel
 - 06/2010-09/2012 Oregon Institute of Technology
 - 06/2011-04/2013 IT Tech - Oregon Convention Center
 - 09/2011-04/2013 Network Systems Engineer (NBI) - Intel
-~ 06/2012 Fourth Laptop (Apple)
+- ~06/2012 Fourth Laptop (Apple)
 - 10/06/2013 Motorcycle Endorsement
 - 04/2013-12/2013 DevOps Engineer - Nike
 - 14/07/2013 CCNP Cert
